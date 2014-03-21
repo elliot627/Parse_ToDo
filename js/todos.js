@@ -34,6 +34,14 @@ $(function() {
     }
   });
 
+
+
+
+
+
+
+
+
   // This is the transient application state, not persisted on Parse
   var AppState = Parse.Object.extend("AppState", {
     defaults: {
